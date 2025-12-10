@@ -1,0 +1,6 @@
+[package]
+name = "Jinx Base"
+version = "0.1"
+jinx_version = ">=0"
+
+indexer = "src/*"
